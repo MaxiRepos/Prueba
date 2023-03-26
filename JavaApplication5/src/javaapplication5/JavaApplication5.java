@@ -10,6 +10,7 @@ package javaapplication5;
  */
 public class JavaApplication5 {
     if prueba=0
+    prueba 1 
 
     /**
      * @param args the command line arguments
